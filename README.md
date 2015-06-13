@@ -1,1 +1,1 @@
-This is a simple example of Fourier series graphics.
+This is a simple example of Fourier Series graphics.
